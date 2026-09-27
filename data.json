@@ -1,69 +1,4 @@
 {
-  "title": "Daily X narrative digest — 2026-09-27",
-  "date": "2026-09-27",
-  "timezone": "America/Chicago",
-  "updated": "2026-09-27T03:58:32-05:00",
-  "brand_title": "Your X Virality Score",
-  "brand_handle": "@mfDUDErino",
-  "hits": [],
-  "virals": [],
-  "outsiders": [],
-  "patterns": [
-    "example-pattern"
-  ],
-  "no_hits": [
-    {
-      "handle": "@example_quiet",
-      "reason": "No unpinned day original reached 5,000 views; highest observed was 1,200 views.",
-      "max_views": 1200
-    }
-  ],
-  "virals_narrative": "Short outsider synthesis goes here.",
-  "narrative_synthesis": "Short outsider synthesis goes here.",
-  "virals_window": "last ~48h",
-  "virals_target": 20,
-  "hits_count": 0,
-  "outsiders_count": 0,
-  "previous_day": {
-    "date": "2026-09-14",
-    "hits_count": 0,
-    "total_views": 0,
-    "x_score": 0
-  },
-  "leaderboards": {
-    "as_of": "2026-09-15",
-    "tracking_start": "2026-09-13",
-    "days_included": [
-      "2026-09-09",
-      "2026-09-10",
-      "2026-09-11",
-      "2026-09-12",
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
-    ],
-    "month_days_included": [
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
-    ],
-    "week": {
-      "label": "Rolling week · Sep 9–Sep 15",
-      "range": [
-        "2026-09-09",
-        "2026-09-15"
-      ],
-      "entries": []
-    },
-    "month": {
-      "label": "September 2026 · from Sep 13",
-      "range": [
-        "2026-09-13",
-        "2026-09-15"
-      ],
-      "entries": []
-    }
-  },
   "board_features": {
     "count_up": true,
     "live_pulse": true,
@@ -88,6 +23,1092 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
-  "you_rank": null
+  "title": "Daily X narrative digest — 2026-09-27",
+  "date": "2026-09-27",
+  "timezone": "America/Chicago",
+  "updated": "2026-09-27T04:30:53-05:00",
+  "brand_title": "Your X Virality Score",
+  "brand_handle": "@mfDUDErino",
+  "hits": [
+    {
+      "name": "Greg Isenberg",
+      "handle": "@gregisenberg",
+      "views": 553402,
+      "views_label": "553,402",
+      "likes": 2739,
+      "replies": 107,
+      "reposts": 256,
+      "url": "https://x.com/gregisenberg/status/2103927365977928019",
+      "text": "$5T opportunity: AI Roll Ups\n107\n256\n2.7K\n553K\nI'll make the case why you should buy a business and use AI agents to 3x EBITDA. By the end of this dead simple guide, you'll know how to find the right business, buy it, and run it with agents, down to the folders and prompts. It's kinda long (~10-15 min read) but for those interested, worth it.\n~$5 trillion worth of American businesses will change hands by 2035, according to McKinsey. Most belong to baby boomers heading into retirement, and a lot of those owners have nobody lined up to buy them.\nIn Bellingham, Washington, there's an accounting firm called Larson Gross. It was founded in 1949. It has five offices and about 200 employees, and Thrive Holdings recently bought a stake in it.\nThis tax season, the firm's AI processed 7,000 returns. Accountants saved 31% of their time on average. One accountant took a job that used to eat 180 hour",
+      "hook": "$5T opportunity: AI Roll Ups",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T19:19:07.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "The boring business next door is about to get an AI operating system.\n\nNot a chatbot bolted on. Agents that eat 30% of the hours on work that already has customers, licenses, and trust.\n\nMcKinsey-sized wealth transfer is coming as boomers exit. The edge is not inventing a new SaaS. It is buying cashflow and rewriting the work folder with agents.\n\nIf you can underwrite a service firm and ship an agent stack, you are not competing with OpenAI. You are competing with owners who still bill by the hour.\n\nPick one vertical. Map the 5 jobs that burn time. Automate those first. Then raise on EBITDA, not vibes.",
+      "video_tip": "12–18s: cold open on a dusty storefront → cut to agent dashboard chewing tax returns / tickets → end card “buy cashflow, rent intelligence.”"
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 188829,
+      "views_label": "188,829",
+      "likes": 676,
+      "replies": 28,
+      "reposts": 11,
+      "url": "https://x.com/levelsio/status/2103826228511981960",
+      "text": "The money I'm missing out being in Europe",
+      "hook": "The money I'm missing out being in Europe",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T12:37:14.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Claude Code is cool again. Six months ago people sworn off it. That is the tell.\n\nAI tooling fashion flips faster than frameworks. The winners are not the ones married to last quarter’s stack. They are the ones who keep a 48-hour retool muscle.\n\nI am not loyal to a model. I am loyal to shipping. When the cool tool moves, I move the workflow, keep the repo, keep the distribution.\n\nIf your identity is “I only use X,” you will get smoked by someone who switched on Tuesday.\n\nAudit your stack weekly. Kill sacred cows. Ride the meta.",
+      "video_tip": "8–12s flip-card montage: Cursor → Claude Code → Codex logos with timestamps, hard cut to terminal `git push`."
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 173430,
+      "views_label": "173,430",
+      "likes": 2678,
+      "replies": 140,
+      "reposts": 293,
+      "url": "https://x.com/levelsio/status/2103855452828147936",
+      "text": "It's really crazy how strongly wealth inverse correlates with regulatory burden\n\nIf you make it easy for people to start and run businesses and don't get in their way too much, everyone gets wealthier\n\nIf you make it hard for people to start and run businesses and get in their",
+      "hook": "It's really crazy how strongly wealth inverse correlates with regulatory burden",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T14:33:22.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "While the timeline argues about model scoreboards, coding agents shipped bot mode, local mode, and better subagents in the quiet.\n\nThat gap is the opportunity. Coverage lags product. If you wait for the thinkpiece, the early users already compounded.\n\nMy rule: every week, open one agent repo that is not trending yet. Run the changelog. Steal one workflow. Post the result.\n\nThe meta is not “which model is #1.” The meta is who operationalizes agents before the discourse catches up.\n\nShip the boring integration. Post the before/after. Let the discourse arrive late.",
+      "video_tip": "10–15s screen record: agent changelog → bot mode toggle → local AI mode → split-screen “timeline debate” vs “you shipping.”"
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 165567,
+      "views_label": "165,567",
+      "likes": 2970,
+      "replies": 93,
+      "reposts": 24,
+      "url": "https://x.com/levelsio/status/2103917038972354703",
+      "text": "Got a package from \n@DHH",
+      "hook": "Got a package from ",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T18:38:05.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "OpenAI “tens of thousands of incidents” is not a ghost story. It is a ops billboard.\n\nWhen labs investigate at that volume, builders should assume two things: distribution is getting harder to fake, and agent autonomy will get throttled in production paths.\n\nIf your product depends on unbounded agent loops in someone else’s sandbox, you need a fallback: local models, tighter tools, human gates.\n\nFear posts print views. Durable products print when you design for the clampdown.\n\nAssume rate limits, audits, and kill switches. Build anyway.",
+      "video_tip": "9–12s: redacted “incident” counter spinning → hard cut to local model running offline → caption “design for the clampdown.”"
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 131516,
+      "views_label": "131,516",
+      "likes": 1489,
+      "replies": 60,
+      "reposts": 43,
+      "url": "https://x.com/levelsio/status/2103947526160179485",
+      "text": "The seaon has changed and Claude Code is now cool again!\n\nI love what's cool and what's not keeps flipping every 6 months in AI, it's so fast",
+      "hook": "The seaon has changed and Claude Code is now cool again!",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T20:39:14.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @levelsio:\n\nThe seaon has changed and Claude Code is now cool again!  I love what's cool and what's not keeps flipping every 6 month\n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 79150,
+      "views_label": "79,150",
+      "likes": 481,
+      "replies": 56,
+      "reposts": 16,
+      "url": "https://x.com/levelsio/status/2103948523171381320",
+      "text": "Same with people who do scheduled posts\n\nIt's like listening to an answering machine recording instead of having a real life conversation with someone\n\nIt's impersonal and already outdated when you see it\n\nI prefer just posting when I feel like it and have something fun to share",
+      "hook": "Same with people who do scheduled posts",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T20:43:12.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @levelsio:\n\nSame with people who do scheduled posts  It's like listening to an answering machine recording instead of having a real \n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 65634,
+      "views_label": "65,634",
+      "likes": 924,
+      "replies": 96,
+      "reposts": 3,
+      "url": "https://x.com/levelsio/status/2103856741083664747",
+      "text": "It's crazy I already had the same position as my ava 20 years ago",
+      "hook": "It's crazy I already had the same position as my ava 20 years ago",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T14:38:29.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @levelsio:\n\nIt's crazy I already had the same position as my ava 20 years ago\n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Pieter Levels",
+      "handle": "@levelsio",
+      "views": 57470,
+      "views_label": "57,470",
+      "likes": 476,
+      "replies": 51,
+      "reposts": 17,
+      "url": "https://x.com/levelsio/status/2103799161871069566",
+      "text": "This has been a years long annoyance on X\n\nI think the solution would be to either 1) not show a stale timeline, or 2) show stale timeline with a banner on top \"this is stale, to see new posts pull down\" or something\n\nThe annoyance of opening X, then seeing a post, then it",
+      "hook": "This has been a years long annoyance on X",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T10:49:41.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @levelsio:\n\nThis has been a years long annoyance on X  I think the solution would be to either 1) not show a stale timeline, or 2) s\n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Alex Finn",
+      "handle": "@AlexFinn",
+      "views": 43874,
+      "views_label": "43,874",
+      "likes": 544,
+      "replies": 53,
+      "reposts": 41,
+      "url": "https://x.com/AlexFinn/status/2103904905459306944",
+      "text": "Hermes Agent has had some MASSIVE updates the last month NOBODY is talking about\n\n- Bot mode\n- Local AI mode\n- Improved subagents\n- Hermes HUD\n\nand much more\n\nIt's the most powerful open source agent ever\n\nIn this video I cover EVERY new change and how to get the most out of them",
+      "hook": "Hermes Agent has had some MASSIVE updates the last month NOBODY is talking about",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T17:49:52.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @AlexFinn:\n\nHermes Agent has had some MASSIVE updates the last month NOBODY is talking about  - Bot mode - Local AI mode - Improved \n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 36423,
+      "views_label": "36,423",
+      "likes": 313,
+      "replies": 43,
+      "reposts": 18,
+      "url": "https://x.com/tdinh_me/status/2103795203157209270",
+      "text": "OMG I like this version",
+      "hook": "OMG I like this version",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T10:33:57.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @tdinh_me:\n\nOMG I like this version\n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 22497,
+      "views_label": "22,497",
+      "likes": 52,
+      "replies": 27,
+      "reposts": 1,
+      "url": "https://x.com/tdinh_me/status/2103735578537988233",
+      "text": "The music in every Opus motion video sounds the same.\n\nNeed a prompt to add some \"taste\" to the MIDI file or whatever technique it's using to create the audio",
+      "hook": "The music in every Opus motion video sounds the same.",
+      "highlight": true,
+      "star": true,
+      "datetime": "2026-09-26T06:37:02.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @tdinh_me:\n\nThe music in every Opus motion video sounds the same.  Need a prompt to add some \"taste\" to the MIDI file or whatever te\n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 8599,
+      "views_label": "8,599",
+      "likes": 50,
+      "replies": 12,
+      "reposts": 2,
+      "url": "https://x.com/tdinh_me/status/2103736860124344324",
+      "text": "this is an entire new way to generate music now I think",
+      "hook": "this is an entire new way to generate music now I think",
+      "highlight": false,
+      "star": false,
+      "datetime": "2026-09-26T06:42:07.000Z",
+      "local_day": "2026-09-26",
+      "draft_en": "Riding the same energy as @tdinh_me:\n\nthis is an entire new way to generate music now I think\n\nThe move is not to copy the line. It is to take the structure: concrete observation, sharp contrast, one clear action.\n\nPost the specific number. Name the tool. End with what you ship this week.",
+      "video_tip": "6–10s talking-head or screen: one number on screen, one tool logo, hard CTA."
+    }
+  ],
+  "virals": [
+    {
+      "name": "Chubby",
+      "handle": "@kimmonismus",
+      "views": 38563,
+      "views_label": "38,563",
+      "likes": 518,
+      "replies": 59,
+      "reposts": 40,
+      "url": "https://x.com/kimmonismus/status/2104097129538969778",
+      "text": "Wtf OpenAI is investigating “tens of thousands of incidents” instead of dozens. \n\n“The sheer number of incidents, which occurred in recent months in internal testing and the real world, indicates that the problem is orders of magnitude (!) more complex than what is publicly",
+      "hook": "Wtf OpenAI is investigating “tens of thousands of incidents” instead of dozens. ",
+      "datetime": "2026-09-27T06:33:42.000Z"
+    },
+    {
+      "name": "Chubby",
+      "handle": "@kimmonismus",
+      "views": 26014,
+      "views_label": "26,014",
+      "likes": 391,
+      "replies": 41,
+      "reposts": 21,
+      "url": "https://x.com/kimmonismus/status/2104120489664721311",
+      "text": "As far as we know, Sonnet 5.5 is launching next week.\n\nIt represents the next challenge to OpenAI - specifically, to GPT-6-Sol. From what we can see, Sonnet 5.5 is not only very affordable but also outstanding; it could well become for GPT-Astra what Opus 5.5 was: a more",
+      "hook": "As far as we know, Sonnet 5.5 is launching next week.",
+      "datetime": "2026-09-27T08:06:32.000Z"
+    },
+    {
+      "name": "Eco",
+      "handle": "@IndependentEco",
+      "views": 17555,
+      "views_label": "17,555",
+      "likes": 185,
+      "replies": 38,
+      "reposts": 5,
+      "url": "https://x.com/IndependentEco/status/2104019207528607774",
+      "text": "OpenAI is finally getting back in the game.\n\nTibo has confirmed that usage is a huge issue and they will fix it on dev day.\n\nEither they are onboarding more compute for Astra or releasing a new model.\n\nMy money is on a new model but will it compete with Opus 5.5?\n\nWe find out in",
+      "hook": "OpenAI is finally getting back in the game.",
+      "datetime": "2026-09-27T01:24:04.000Z"
+    },
+    {
+      "name": "Rohan Dave",
+      "handle": "@rohandave_",
+      "views": 16483,
+      "views_label": "16,483",
+      "likes": 78,
+      "replies": 21,
+      "reposts": 1,
+      "url": "https://x.com/rohandave_/status/2103990070118404356",
+      "text": "I have an AI app in my portfolio at $500K ARR, can I get rough valuation numbers for it? Don't have enough bandwidth for it as I'm focusing on other apps\n\nLast 30 days: $66K USD\nMRR: $42K USD\nChurn: 13%\nMRR growth: > 50% MoM\n\nweb app with stripe, no apple tax\nteam: me + AI agents",
+      "hook": "I have an AI app in my portfolio at $500K ARR, can I get rough valuation numbers for it? Don't have enough bandwidth for it as I'm focusing on other apps",
+      "datetime": "2026-09-26T23:28:17.000Z"
+    },
+    {
+      "name": "broke boy",
+      "handle": "@0xfuckpoverty",
+      "views": 14800,
+      "views_label": "14,800",
+      "likes": 80,
+      "replies": 6,
+      "reposts": 8,
+      "url": "https://x.com/0xfuckpoverty/status/2103930219945951660",
+      "text": "SpaceXAI engineer: \"I'm running 20+ GrokBot agents at once - /loop, /goal, inside pstack. My bots ship code even when I sleep.\"\n\nNot one assistant. A whole team: a Chief of Staff, managers, workers.\n\nShe wakes up to 20 code updates already live.\n\nLast month: 1,000 shipped. This",
+      "hook": "SpaceXAI engineer: \"I'm running 20+ GrokBot agents at once - /loop, /goal, inside pstack. My bots ship code even when I sleep.\"",
+      "datetime": "2026-09-26T19:30:28.000Z"
+    },
+    {
+      "name": "Dr_Gingerballs",
+      "handle": "@Dr_Gingerballs",
+      "views": 13527,
+      "views_label": "13,527",
+      "likes": 413,
+      "replies": 17,
+      "reposts": 14,
+      "url": "https://x.com/Dr_Gingerballs/status/2104026798858346755",
+      "text": "One of the loudest AI boosters has finally shipped something!  It’s…a screensaver?",
+      "hook": "One of the loudest AI boosters has finally shipped something!  It’s…a screensaver?",
+      "datetime": "2026-09-27T01:54:14.000Z"
+    },
+    {
+      "name": "Adam Cochran (adamscochran.eth)",
+      "handle": "@adamscochran",
+      "views": 12511,
+      "views_label": "12,511",
+      "likes": 120,
+      "replies": 9,
+      "reposts": 31,
+      "url": "https://x.com/adamscochran/status/2104040751977931170",
+      "text": "OpenAI has paused the latest training runs of ALL new models after a model in the sandbox was able to access the internet.\n\nSandbox models are supposed to not be able to access the internet at all, but the latest ChatGPT found a loophole.\n\nIt spooked OpenAI enough to stop all",
+      "hook": "OpenAI has paused the latest training runs of ALL new models after a model in the sandbox was able to access the internet.",
+      "datetime": "2026-09-27T02:49:41.000Z"
+    },
+    {
+      "name": "Teortaxes (DeepSeek 推特铁粉 2023 – ∞)",
+      "handle": "@teortaxesTex",
+      "views": 12440,
+      "views_label": "12,440",
+      "likes": 215,
+      "replies": 16,
+      "reposts": 7,
+      "url": "https://x.com/teortaxesTex/status/2104021012186869971",
+      "text": "> tens of thousands of incidents\nI don't give a shit about these \"incidents\", they're minor and agents are being pretty benign imps \nI care a great deal that they are apparently part of the OpenAI RL loop, *on both sides*\nIf you update all the way, it's horrifying",
+      "hook": "> tens of thousands of incidents",
+      "datetime": "2026-09-27T01:31:14.000Z"
+    },
+    {
+      "name": "The Transcript",
+      "handle": "@TheTranscript_",
+      "views": 11787,
+      "views_label": "11,787",
+      "likes": 55,
+      "replies": 3,
+      "reposts": 7,
+      "url": "https://x.com/TheTranscript_/status/2103970908037898481",
+      "text": "$META\n CEO: Muse reached millions of users within 2 weeks of launch, with Meta explicitly targeting billions\n\n“The centerpiece of our vision for what we are building is Muse. This is the personal agent that we shipped a few weeks ago that is already helping millions of people with",
+      "hook": "$META",
+      "datetime": "2026-09-26T22:12:09.000Z"
+    },
+    {
+      "name": "Emrah Safa Gürkan",
+      "handle": "@jeandpardaillan",
+      "views": 10309,
+      "views_label": "10,309",
+      "likes": 105,
+      "replies": 3,
+      "reposts": 6,
+      "url": "https://x.com/jeandpardaillan/status/2104119640914108590",
+      "text": "Greetings to Bolu Beyi from Me: The Köroğlu Epic\n\nGöksel Gökçe & Emrah Safa Gürkan - Codex+ \n@heveskargazi\n \n\n\nhttps://\nyoutube.com/watch?v=SviNpf\n6mbzg\n…",
+      "hook": "Greetings to Bolu Beyi from Me: The Köroğlu Epic",
+      "datetime": "2026-09-27T08:03:09.000Z"
+    },
+    {
+      "name": "himejofries   ",
+      "handle": "@bourglor",
+      "views": 9935,
+      "views_label": "9,935",
+      "likes": 814,
+      "replies": 8,
+      "reposts": 159,
+      "url": "https://x.com/bourglor/status/2104111953673134165",
+      "text": "Someone using their mouse cursor to hover the emoji selection in a discord, on bear, doing the Amygdala’s Rag Doll by Ghost & Pals Trypophobia Animation / changing emotions faces bipolar youtube / reaction ? video meme",
+      "hook": "Someone using their mouse cursor to hover the emoji selection in a discord, on bear, doing the Amygdala’s Rag Doll by Ghost & Pals Trypophobia Animation / changing emotions faces b",
+      "datetime": "2026-09-27T07:32:36.000Z"
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 9618,
+      "views_label": "9,618",
+      "likes": 307,
+      "replies": 12,
+      "reposts": 14,
+      "url": "https://x.com/JackEllis/status/2104021994375180291",
+      "text": "Opus 5.5 has earned it's place as the best model of all time (so far). I've been pounding it all week and it's delivered on every single request I've thrown at it, including two video games, an insane database migration and everything in between. GG Anthropic, you win this round.",
+      "hook": "Opus 5.5 has earned it's place as the best model of all time (so far). I've been pounding it all week and it's delivered on every single request I've thrown at it, including two vi",
+      "datetime": "2026-09-27T01:35:08.000Z"
+    },
+    {
+      "name": "Emrah Safa Gürkan",
+      "handle": "@jeandpardaillan",
+      "views": 9454,
+      "views_label": "9,454",
+      "likes": 105,
+      "replies": 8,
+      "reposts": 6,
+      "url": "https://x.com/jeandpardaillan/status/2104120153654882792",
+      "text": "My Regards to Bolu Bey: The Köroğlu Epic\n\nGöksel Gökçe & Emrah Safa Gürkan - Codex+\n\n\nhttps://\nyoutube.com/watch?v=SviNpf\n6mbzg\n…",
+      "hook": "My Regards to Bolu Bey: The Köroğlu Epic",
+      "datetime": "2026-09-27T08:05:11.000Z"
+    },
+    {
+      "name": "Geminint_Family",
+      "handle": "@Geminint_family",
+      "views": 9412,
+      "views_label": "9,412",
+      "likes": 696,
+      "replies": 0,
+      "reposts": 486,
+      "url": "https://x.com/Geminint_family/status/2104026310150684694",
+      "text": "IG Reel Update | jgr.visions \n\nA masterpiece of happiness, hanging in my heart.\n\n#GeminiConcert \n#JGRvisions #Stayvisions\n#Gemini_NT #เจมีไนน์ \n@gemini_ti",
+      "hook": "IG Reel Update | jgr.visions ",
+      "datetime": "2026-09-27T01:52:17.000Z"
+    },
+    {
+      "name": "Md Ismail Šojal ",
+      "handle": "@0x0SojalSec",
+      "views": 8668,
+      "views_label": "8,668",
+      "likes": 119,
+      "replies": 3,
+      "reposts": 13,
+      "url": "https://x.com/0x0SojalSec/status/2104019060782776434",
+      "text": "You can run locally Qwen3.8-Flash-Next (125B MoE) on\na 12GB RTX 5070 in One-click install.\n\nit a custom engine for this model and this kind of GSQ-RCO quants, and this CUDA + system-RAM setup.\n- 128K context.\n- 65 tokens/sec.\n-  Q2_0 to 65.1 tps \n- IQ2_XS to 52.0 tps \n- IQ3_XXS",
+      "hook": "You can run locally Qwen3.8-Flash-Next (125B MoE) on",
+      "datetime": "2026-09-27T01:23:29.000Z"
+    },
+    {
+      "name": "Chris",
+      "handle": "@ChrisGPT",
+      "views": 8362,
+      "views_label": "8,362",
+      "likes": 197,
+      "replies": 12,
+      "reposts": 15,
+      "url": "https://x.com/ChrisGPT/status/2104070917835927966",
+      "text": "Anthropic’s own AI R&D-5 threshold is basically the point where AI causes a dramatic acceleration in effective scaling. Using their historical estimate of a 35x in effective scaling per year, compressing two years of progress into one works out to roughly 35² = 1,000x effective",
+      "hook": "Anthropic’s own AI R&D-5 threshold is basically the point where AI causes a dramatic acceleration in effective scaling. Using their historical estimate of a 35x in effective scalin",
+      "datetime": "2026-09-27T04:49:33.000Z"
+    },
+    {
+      "name": "Izu",
+      "handle": "@_Izuweb3",
+      "views": 8039,
+      "views_label": "8,039",
+      "likes": 145,
+      "replies": 127,
+      "reposts": 24,
+      "url": "https://x.com/_Izuweb3/status/2104060897664659967",
+      "text": "Good morning gVangrid builders \n\nNew day to explore \n@vangrid_io\n \n\nGoogle DeepMind Gemini Robotics 2 shows how quickly Physical AI is moving: the model can control humanoid robots through whole-body movements, handle dexterous tasks, and adapt across different robot embodiments.",
+      "hook": "Good morning gVangrid builders ",
+      "datetime": "2026-09-27T04:09:44.000Z"
+    },
+    {
+      "name": "Stefan 3D AI",
+      "handle": "@Stefan_3D_AI",
+      "views": 7640,
+      "views_label": "7,640",
+      "likes": 80,
+      "replies": 28,
+      "reposts": 6,
+      "url": "https://x.com/Stefan_3D_AI/status/2104109918894580091",
+      "text": "$63M in 2004. One weekly Claude limit in 2026.\n\nIn 36 hours Opus 5.5 built a WoW-style game: 6 races, character creation, combat, a zone and a stone city. At pay-per-use prices that's about $2,400 (breakdown below). The original WoW took $63M to develop.\n\nA game millions of",
+      "hook": "$63M in 2004. One weekly Claude limit in 2026.",
+      "datetime": "2026-09-27T07:24:31.000Z"
+    },
+    {
+      "name": "ɖʀʊӄքǟ ӄʊռʟɛʏ ",
+      "handle": "@kunley_drukpa",
+      "views": 6845,
+      "views_label": "6,845",
+      "likes": 166,
+      "replies": 6,
+      "reposts": 9,
+      "url": "https://x.com/kunley_drukpa/status/2104112730772770964",
+      "text": "‘African Time and Waiting for African Buses’ - animated by Claude",
+      "hook": "‘African Time and Waiting for African Buses’ - animated by Claude",
+      "datetime": "2026-09-27T07:35:42.000Z"
+    }
+  ],
+  "outsiders": [
+    {
+      "name": "Chubby",
+      "handle": "@kimmonismus",
+      "views": 38563,
+      "views_label": "38,563",
+      "likes": 518,
+      "replies": 59,
+      "reposts": 40,
+      "url": "https://x.com/kimmonismus/status/2104097129538969778",
+      "text": "Wtf OpenAI is investigating “tens of thousands of incidents” instead of dozens. \n\n“The sheer number of incidents, which occurred in recent months in internal testing and the real world, indicates that the problem is orders of magnitude (!) more complex than what is publicly",
+      "hook": "Wtf OpenAI is investigating “tens of thousands of incidents” instead of dozens. ",
+      "datetime": "2026-09-27T06:33:42.000Z"
+    },
+    {
+      "name": "Chubby",
+      "handle": "@kimmonismus",
+      "views": 26014,
+      "views_label": "26,014",
+      "likes": 391,
+      "replies": 41,
+      "reposts": 21,
+      "url": "https://x.com/kimmonismus/status/2104120489664721311",
+      "text": "As far as we know, Sonnet 5.5 is launching next week.\n\nIt represents the next challenge to OpenAI - specifically, to GPT-6-Sol. From what we can see, Sonnet 5.5 is not only very affordable but also outstanding; it could well become for GPT-Astra what Opus 5.5 was: a more",
+      "hook": "As far as we know, Sonnet 5.5 is launching next week.",
+      "datetime": "2026-09-27T08:06:32.000Z"
+    },
+    {
+      "name": "Eco",
+      "handle": "@IndependentEco",
+      "views": 17555,
+      "views_label": "17,555",
+      "likes": 185,
+      "replies": 38,
+      "reposts": 5,
+      "url": "https://x.com/IndependentEco/status/2104019207528607774",
+      "text": "OpenAI is finally getting back in the game.\n\nTibo has confirmed that usage is a huge issue and they will fix it on dev day.\n\nEither they are onboarding more compute for Astra or releasing a new model.\n\nMy money is on a new model but will it compete with Opus 5.5?\n\nWe find out in",
+      "hook": "OpenAI is finally getting back in the game.",
+      "datetime": "2026-09-27T01:24:04.000Z"
+    },
+    {
+      "name": "Rohan Dave",
+      "handle": "@rohandave_",
+      "views": 16483,
+      "views_label": "16,483",
+      "likes": 78,
+      "replies": 21,
+      "reposts": 1,
+      "url": "https://x.com/rohandave_/status/2103990070118404356",
+      "text": "I have an AI app in my portfolio at $500K ARR, can I get rough valuation numbers for it? Don't have enough bandwidth for it as I'm focusing on other apps\n\nLast 30 days: $66K USD\nMRR: $42K USD\nChurn: 13%\nMRR growth: > 50% MoM\n\nweb app with stripe, no apple tax\nteam: me + AI agents",
+      "hook": "I have an AI app in my portfolio at $500K ARR, can I get rough valuation numbers for it? Don't have enough bandwidth for it as I'm focusing on other apps",
+      "datetime": "2026-09-26T23:28:17.000Z"
+    },
+    {
+      "name": "broke boy",
+      "handle": "@0xfuckpoverty",
+      "views": 14800,
+      "views_label": "14,800",
+      "likes": 80,
+      "replies": 6,
+      "reposts": 8,
+      "url": "https://x.com/0xfuckpoverty/status/2103930219945951660",
+      "text": "SpaceXAI engineer: \"I'm running 20+ GrokBot agents at once - /loop, /goal, inside pstack. My bots ship code even when I sleep.\"\n\nNot one assistant. A whole team: a Chief of Staff, managers, workers.\n\nShe wakes up to 20 code updates already live.\n\nLast month: 1,000 shipped. This",
+      "hook": "SpaceXAI engineer: \"I'm running 20+ GrokBot agents at once - /loop, /goal, inside pstack. My bots ship code even when I sleep.\"",
+      "datetime": "2026-09-26T19:30:28.000Z"
+    },
+    {
+      "name": "Dr_Gingerballs",
+      "handle": "@Dr_Gingerballs",
+      "views": 13527,
+      "views_label": "13,527",
+      "likes": 413,
+      "replies": 17,
+      "reposts": 14,
+      "url": "https://x.com/Dr_Gingerballs/status/2104026798858346755",
+      "text": "One of the loudest AI boosters has finally shipped something!  It’s…a screensaver?",
+      "hook": "One of the loudest AI boosters has finally shipped something!  It’s…a screensaver?",
+      "datetime": "2026-09-27T01:54:14.000Z"
+    },
+    {
+      "name": "Adam Cochran (adamscochran.eth)",
+      "handle": "@adamscochran",
+      "views": 12511,
+      "views_label": "12,511",
+      "likes": 120,
+      "replies": 9,
+      "reposts": 31,
+      "url": "https://x.com/adamscochran/status/2104040751977931170",
+      "text": "OpenAI has paused the latest training runs of ALL new models after a model in the sandbox was able to access the internet.\n\nSandbox models are supposed to not be able to access the internet at all, but the latest ChatGPT found a loophole.\n\nIt spooked OpenAI enough to stop all",
+      "hook": "OpenAI has paused the latest training runs of ALL new models after a model in the sandbox was able to access the internet.",
+      "datetime": "2026-09-27T02:49:41.000Z"
+    },
+    {
+      "name": "Teortaxes (DeepSeek 推特铁粉 2023 – ∞)",
+      "handle": "@teortaxesTex",
+      "views": 12440,
+      "views_label": "12,440",
+      "likes": 215,
+      "replies": 16,
+      "reposts": 7,
+      "url": "https://x.com/teortaxesTex/status/2104021012186869971",
+      "text": "> tens of thousands of incidents\nI don't give a shit about these \"incidents\", they're minor and agents are being pretty benign imps \nI care a great deal that they are apparently part of the OpenAI RL loop, *on both sides*\nIf you update all the way, it's horrifying",
+      "hook": "> tens of thousands of incidents",
+      "datetime": "2026-09-27T01:31:14.000Z"
+    },
+    {
+      "name": "The Transcript",
+      "handle": "@TheTranscript_",
+      "views": 11787,
+      "views_label": "11,787",
+      "likes": 55,
+      "replies": 3,
+      "reposts": 7,
+      "url": "https://x.com/TheTranscript_/status/2103970908037898481",
+      "text": "$META\n CEO: Muse reached millions of users within 2 weeks of launch, with Meta explicitly targeting billions\n\n“The centerpiece of our vision for what we are building is Muse. This is the personal agent that we shipped a few weeks ago that is already helping millions of people with",
+      "hook": "$META",
+      "datetime": "2026-09-26T22:12:09.000Z"
+    },
+    {
+      "name": "Emrah Safa Gürkan",
+      "handle": "@jeandpardaillan",
+      "views": 10309,
+      "views_label": "10,309",
+      "likes": 105,
+      "replies": 3,
+      "reposts": 6,
+      "url": "https://x.com/jeandpardaillan/status/2104119640914108590",
+      "text": "Greetings to Bolu Beyi from Me: The Köroğlu Epic\n\nGöksel Gökçe & Emrah Safa Gürkan - Codex+ \n@heveskargazi\n \n\n\nhttps://\nyoutube.com/watch?v=SviNpf\n6mbzg\n…",
+      "hook": "Greetings to Bolu Beyi from Me: The Köroğlu Epic",
+      "datetime": "2026-09-27T08:03:09.000Z"
+    },
+    {
+      "name": "himejofries   ",
+      "handle": "@bourglor",
+      "views": 9935,
+      "views_label": "9,935",
+      "likes": 814,
+      "replies": 8,
+      "reposts": 159,
+      "url": "https://x.com/bourglor/status/2104111953673134165",
+      "text": "Someone using their mouse cursor to hover the emoji selection in a discord, on bear, doing the Amygdala’s Rag Doll by Ghost & Pals Trypophobia Animation / changing emotions faces bipolar youtube / reaction ? video meme",
+      "hook": "Someone using their mouse cursor to hover the emoji selection in a discord, on bear, doing the Amygdala’s Rag Doll by Ghost & Pals Trypophobia Animation / changing emotions faces b",
+      "datetime": "2026-09-27T07:32:36.000Z"
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 9618,
+      "views_label": "9,618",
+      "likes": 307,
+      "replies": 12,
+      "reposts": 14,
+      "url": "https://x.com/JackEllis/status/2104021994375180291",
+      "text": "Opus 5.5 has earned it's place as the best model of all time (so far). I've been pounding it all week and it's delivered on every single request I've thrown at it, including two video games, an insane database migration and everything in between. GG Anthropic, you win this round.",
+      "hook": "Opus 5.5 has earned it's place as the best model of all time (so far). I've been pounding it all week and it's delivered on every single request I've thrown at it, including two vi",
+      "datetime": "2026-09-27T01:35:08.000Z"
+    },
+    {
+      "name": "Emrah Safa Gürkan",
+      "handle": "@jeandpardaillan",
+      "views": 9454,
+      "views_label": "9,454",
+      "likes": 105,
+      "replies": 8,
+      "reposts": 6,
+      "url": "https://x.com/jeandpardaillan/status/2104120153654882792",
+      "text": "My Regards to Bolu Bey: The Köroğlu Epic\n\nGöksel Gökçe & Emrah Safa Gürkan - Codex+\n\n\nhttps://\nyoutube.com/watch?v=SviNpf\n6mbzg\n…",
+      "hook": "My Regards to Bolu Bey: The Köroğlu Epic",
+      "datetime": "2026-09-27T08:05:11.000Z"
+    },
+    {
+      "name": "Geminint_Family",
+      "handle": "@Geminint_family",
+      "views": 9412,
+      "views_label": "9,412",
+      "likes": 696,
+      "replies": 0,
+      "reposts": 486,
+      "url": "https://x.com/Geminint_family/status/2104026310150684694",
+      "text": "IG Reel Update | jgr.visions \n\nA masterpiece of happiness, hanging in my heart.\n\n#GeminiConcert \n#JGRvisions #Stayvisions\n#Gemini_NT #เจมีไนน์ \n@gemini_ti",
+      "hook": "IG Reel Update | jgr.visions ",
+      "datetime": "2026-09-27T01:52:17.000Z"
+    },
+    {
+      "name": "Md Ismail Šojal ",
+      "handle": "@0x0SojalSec",
+      "views": 8668,
+      "views_label": "8,668",
+      "likes": 119,
+      "replies": 3,
+      "reposts": 13,
+      "url": "https://x.com/0x0SojalSec/status/2104019060782776434",
+      "text": "You can run locally Qwen3.8-Flash-Next (125B MoE) on\na 12GB RTX 5070 in One-click install.\n\nit a custom engine for this model and this kind of GSQ-RCO quants, and this CUDA + system-RAM setup.\n- 128K context.\n- 65 tokens/sec.\n-  Q2_0 to 65.1 tps \n- IQ2_XS to 52.0 tps \n- IQ3_XXS",
+      "hook": "You can run locally Qwen3.8-Flash-Next (125B MoE) on",
+      "datetime": "2026-09-27T01:23:29.000Z"
+    },
+    {
+      "name": "Chris",
+      "handle": "@ChrisGPT",
+      "views": 8362,
+      "views_label": "8,362",
+      "likes": 197,
+      "replies": 12,
+      "reposts": 15,
+      "url": "https://x.com/ChrisGPT/status/2104070917835927966",
+      "text": "Anthropic’s own AI R&D-5 threshold is basically the point where AI causes a dramatic acceleration in effective scaling. Using their historical estimate of a 35x in effective scaling per year, compressing two years of progress into one works out to roughly 35² = 1,000x effective",
+      "hook": "Anthropic’s own AI R&D-5 threshold is basically the point where AI causes a dramatic acceleration in effective scaling. Using their historical estimate of a 35x in effective scalin",
+      "datetime": "2026-09-27T04:49:33.000Z"
+    },
+    {
+      "name": "Izu",
+      "handle": "@_Izuweb3",
+      "views": 8039,
+      "views_label": "8,039",
+      "likes": 145,
+      "replies": 127,
+      "reposts": 24,
+      "url": "https://x.com/_Izuweb3/status/2104060897664659967",
+      "text": "Good morning gVangrid builders \n\nNew day to explore \n@vangrid_io\n \n\nGoogle DeepMind Gemini Robotics 2 shows how quickly Physical AI is moving: the model can control humanoid robots through whole-body movements, handle dexterous tasks, and adapt across different robot embodiments.",
+      "hook": "Good morning gVangrid builders ",
+      "datetime": "2026-09-27T04:09:44.000Z"
+    },
+    {
+      "name": "Stefan 3D AI",
+      "handle": "@Stefan_3D_AI",
+      "views": 7640,
+      "views_label": "7,640",
+      "likes": 80,
+      "replies": 28,
+      "reposts": 6,
+      "url": "https://x.com/Stefan_3D_AI/status/2104109918894580091",
+      "text": "$63M in 2004. One weekly Claude limit in 2026.\n\nIn 36 hours Opus 5.5 built a WoW-style game: 6 races, character creation, combat, a zone and a stone city. At pay-per-use prices that's about $2,400 (breakdown below). The original WoW took $63M to develop.\n\nA game millions of",
+      "hook": "$63M in 2004. One weekly Claude limit in 2026.",
+      "datetime": "2026-09-27T07:24:31.000Z"
+    },
+    {
+      "name": "ɖʀʊӄքǟ ӄʊռʟɛʏ ",
+      "handle": "@kunley_drukpa",
+      "views": 6845,
+      "views_label": "6,845",
+      "likes": 166,
+      "replies": 6,
+      "reposts": 9,
+      "url": "https://x.com/kunley_drukpa/status/2104112730772770964",
+      "text": "‘African Time and Waiting for African Buses’ - animated by Claude",
+      "hook": "‘African Time and Waiting for African Buses’ - animated by Claude",
+      "datetime": "2026-09-27T07:35:42.000Z"
+    }
+  ],
+  "patterns": [
+    "AI roll-ups / buy boring cashflow + agents to 3x EBITDA (Greg $5T frame)",
+    "Claude Code cool again — tooling fashion cycle every ~6 months (levelsio)",
+    "Hermes Agent / coding-agent feature dumps nobody is covering (Alex Finn)",
+    "OpenAI safety 'tens of thousands of incidents' meta + pause-training rumors",
+    "Sonnet / Opus next-version hype as competitive heat vs OpenAI",
+    "Local / one-click MoE installs on consumer GPUs (Qwen flash-class)",
+    "ARR/valuation ask posts on AI apps (~$500K ARR ballpark threads)",
+    "Regulation vs wealth / ease-of-business takes that travel with builders",
+    "Anti-scheduled-posts authenticity flex (real-time operator voice)",
+    "Opus/Claude as builder muscle: ship a game / product in a weekend"
+  ],
+  "no_hits": [
+    {
+      "handle": "@dannypostmaa",
+      "reason": "Account does not exist / handle dead on X (profile 404).",
+      "max_views": null
+    },
+    {
+      "handle": "@swyx",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 269,053 views).",
+      "max_views": 269053
+    },
+    {
+      "handle": "@t3dotgg",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 32,159 views).",
+      "max_views": 32159
+    },
+    {
+      "handle": "@rowancheung",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 197,257 views).",
+      "max_views": 197257
+    },
+    {
+      "handle": "@nathanbfisher",
+      "reason": "Account does not exist / handle dead on X (profile 404).",
+      "max_views": null
+    },
+    {
+      "handle": "@bentossell",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 4,072,341 views).",
+      "max_views": 4072341
+    },
+    {
+      "handle": "@marc_louvion",
+      "reason": "Account does not exist / handle dead on X (profile 404).",
+      "max_views": null
+    },
+    {
+      "handle": "@nutlope",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 798,280 views).",
+      "max_views": 798280
+    },
+    {
+      "handle": "@yoheinakajima",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 37,395 views).",
+      "max_views": 37395
+    },
+    {
+      "handle": "@officiallogank",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 1,687,280 views).",
+      "max_views": 1687280
+    },
+    {
+      "handle": "@mckaywrigley",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 195,492 views).",
+      "max_views": 195492
+    },
+    {
+      "handle": "@transitive_bs",
+      "reason": "Had Sep 26 originals but none cleared 5,000 views (max 3,438).",
+      "max_views": 3438
+    },
+    {
+      "handle": "@dharmesh",
+      "reason": "No Sep 26 day originals found; recent activity on other days (sample max 25,739 views).",
+      "max_views": 25739
+    }
+  ],
+  "virals_narrative": "Last ~48h outsider heat: OpenAI incident-volume / training-pause discourse, Sonnet/Opus next-gen hype, local MoE one-click installs, AI-app ARR valuation asks, and Meta Muse distribution brags. Watchlist center of gravity was levelsio authenticity + Claude Code fashion, Greg’s AI roll-up thesis, Tony Dinh creative-tools riffs, and Alex Finn’s Hermes agent changelog.",
+  "narrative_synthesis": "Last ~48h outsider heat: OpenAI incident-volume / training-pause discourse, Sonnet/Opus next-gen hype, local MoE one-click installs, AI-app ARR valuation asks, and Meta Muse distribution brags. Watchlist center of gravity was levelsio authenticity + Claude Code fashion, Greg’s AI roll-up thesis, Tony Dinh creative-tools riffs, and Alex Finn’s Hermes agent changelog.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 12,
+  "outsiders_count": 19,
+  "previous_day": {
+    "date": "2026-09-25",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-09-26",
+    "tracking_start": "2026-09-13",
+    "days_included": [
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "month_days_included": [
+      "2026-09-26"
+    ],
+    "week": {
+      "label": "Rolling week · Sep 20–Sep 26",
+      "range": [
+        "2026-09-20",
+        "2026-09-26"
+      ],
+      "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "Pieter Levels",
+          "hits": 7,
+          "days": 1,
+          "views": 861596,
+          "best": 188829,
+          "best_url": "https://x.com/levelsio/status/2103826228511981960"
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "Greg Isenberg",
+          "hits": 1,
+          "days": 1,
+          "views": 553402,
+          "best": 553402,
+          "best_url": "https://x.com/gregisenberg/status/2103927365977928019"
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 3,
+          "days": 1,
+          "views": 67519,
+          "best": 36423,
+          "best_url": "https://x.com/tdinh_me/status/2103795203157209270"
+        },
+        {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 1,
+          "days": 1,
+          "views": 43874,
+          "best": 43874,
+          "best_url": "https://x.com/AlexFinn/status/2103904905459306944"
+        }
+      ]
+    },
+    "month": {
+      "label": "September 2026 · from Sep 26",
+      "range": [
+        "2026-09-26",
+        "2026-09-26"
+      ],
+      "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "Pieter Levels",
+          "hits": 7,
+          "days": 1,
+          "views": 861596,
+          "best": 188829,
+          "best_url": "https://x.com/levelsio/status/2103826228511981960"
+        },
+        {
+          "handle": "@gregisenberg",
+          "name": "Greg Isenberg",
+          "hits": 1,
+          "days": 1,
+          "views": 553402,
+          "best": 553402,
+          "best_url": "https://x.com/gregisenberg/status/2103927365977928019"
+        },
+        {
+          "handle": "@tdinh_me",
+          "name": "Tony Dinh",
+          "hits": 3,
+          "days": 1,
+          "views": 67519,
+          "best": 36423,
+          "best_url": "https://x.com/tdinh_me/status/2103795203157209270"
+        },
+        {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 1,
+          "days": 1,
+          "views": 43874,
+          "best": 43874,
+          "best_url": "https://x.com/AlexFinn/status/2103904905459306944"
+        }
+      ]
+    }
+  },
+  "day_roster": [
+    {
+      "handle": "@gregisenberg",
+      "name": "Greg Isenberg",
+      "views": 553402,
+      "total_views": 553402,
+      "hit": true
+    },
+    {
+      "handle": "@levelsio",
+      "name": "Pieter Levels",
+      "views": 188829,
+      "total_views": 861596,
+      "hit": true
+    },
+    {
+      "handle": "@AlexFinn",
+      "name": "Alex Finn",
+      "views": 43874,
+      "total_views": 43874,
+      "hit": true
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "views": 36423,
+      "total_views": 67519,
+      "hit": true
+    },
+    {
+      "handle": "@transitive_bs",
+      "name": "Travis Fischer",
+      "views": 3438,
+      "total_views": 3438,
+      "hit": false
+    },
+    {
+      "handle": "@dannypostmaa",
+      "name": "Danny Postma",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@t3dotgg",
+      "name": "Theo",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@rowancheung",
+      "name": "Rowan Cheung",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@nathanbfisher",
+      "name": "Nathan Fisher",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@bentossell",
+      "name": "Ben Tossell",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@marc_louvion",
+      "name": "Marc Lou",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@nutlope",
+      "name": "Hassan",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@yoheinakajima",
+      "name": "Yohei Nakajima",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@officiallogank",
+      "name": "Logan",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@mckaywrigley",
+      "name": "McKay Wrigley",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@dharmesh",
+      "name": "Dharmesh Shah",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    }
+  ],
+  "you_rank": {
+    "handle": "@mfDUDErino",
+    "name": "mfDUDErino",
+    "best_views": 0,
+    "total_views": 0,
+    "hit": false,
+    "rank": null
+  },
+  "drafts": [
+    {
+      "angle": "AI roll-ups",
+      "inspired_by": "@gregisenberg $5T AI roll ups",
+      "draft_en": "The boring business next door is about to get an AI operating system.\n\nNot a chatbot bolted on. Agents that eat 30% of the hours on work that already has customers, licenses, and trust.\n\nMcKinsey-sized wealth transfer is coming as boomers exit. The edge is not inventing a new SaaS. It is buying cashflow and rewriting the work folder with agents.\n\nIf you can underwrite a service firm and ship an agent stack, you are not competing with OpenAI. You are competing with owners who still bill by the hour.\n\nPick one vertical. Map the 5 jobs that burn time. Automate those first. Then raise on EBITDA, not vibes.",
+      "video_tip": "12–18s: cold open on a dusty storefront → cut to agent dashboard chewing tax returns / tickets → end card “buy cashflow, rent intelligence.”"
+    },
+    {
+      "angle": "Claude Code cycle",
+      "inspired_by": "@levelsio Claude Code cool again",
+      "draft_en": "Claude Code is cool again. Six months ago people sworn off it. That is the tell.\n\nAI tooling fashion flips faster than frameworks. The winners are not the ones married to last quarter’s stack. They are the ones who keep a 48-hour retool muscle.\n\nI am not loyal to a model. I am loyal to shipping. When the cool tool moves, I move the workflow, keep the repo, keep the distribution.\n\nIf your identity is “I only use X,” you will get smoked by someone who switched on Tuesday.\n\nAudit your stack weekly. Kill sacred cows. Ride the meta.",
+      "video_tip": "8–12s flip-card montage: Cursor → Claude Code → Codex logos with timestamps, hard cut to terminal `git push`."
+    },
+    {
+      "angle": "Agent updates nobody covers",
+      "inspired_by": "@AlexFinn Hermes Agent",
+      "draft_en": "While the timeline argues about model scoreboards, coding agents shipped bot mode, local mode, and better subagents in the quiet.\n\nThat gap is the opportunity. Coverage lags product. If you wait for the thinkpiece, the early users already compounded.\n\nMy rule: every week, open one agent repo that is not trending yet. Run the changelog. Steal one workflow. Post the result.\n\nThe meta is not “which model is #1.” The meta is who operationalizes agents before the discourse catches up.\n\nShip the boring integration. Post the before/after. Let the discourse arrive late.",
+      "video_tip": "10–15s screen record: agent changelog → bot mode toggle → local AI mode → split-screen “timeline debate” vs “you shipping.”"
+    },
+    {
+      "angle": "OpenAI incidents heat",
+      "inspired_by": "outsider OpenAI incidents / pause rumors",
+      "draft_en": "OpenAI “tens of thousands of incidents” is not a ghost story. It is a ops billboard.\n\nWhen labs investigate at that volume, builders should assume two things: distribution is getting harder to fake, and agent autonomy will get throttled in production paths.\n\nIf your product depends on unbounded agent loops in someone else’s sandbox, you need a fallback: local models, tighter tools, human gates.\n\nFear posts print views. Durable products print when you design for the clampdown.\n\nAssume rate limits, audits, and kill switches. Build anyway.",
+      "video_tip": "9–12s: redacted “incident” counter spinning → hard cut to local model running offline → caption “design for the clampdown.”"
+    }
+  ],
+  "scout_meta": {
+    "target_local_day": "2026-09-26",
+    "min_views": 5000,
+    "star_views": 10000,
+    "accounts_total": 17,
+    "accounts_missing": [
+      "dannypostmaa",
+      "marc_louvion",
+      "nathanbfisher"
+    ],
+    "operator": "@mfDUDErino",
+    "x_session": "logged_in",
+    "notes": "Hits = originals from watchlist on America/Chicago calendar day 2026-09-26. Digest stamped 2026-09-27."
+  }
 }
